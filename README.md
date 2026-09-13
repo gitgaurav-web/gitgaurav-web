@@ -3,29 +3,29 @@
 <p align="left">
   <a href="https://realtimexyz.blogspot.com/"><img src="https://img.shields.io/badge/Live_Chat_App-Blogspot-ff5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   <a href="https://github.com/gitgaurav-web"><img src="https://img.shields.io/badge/GitHub-gitgaurav--web-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0078D4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-Bengaluru-6f42c1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-🎓 **Computer Science & Engineering Student** based in Bengaluru, India.  
-💡 Passionate about building modern, real-time web applications, **Data Science, Analytics, and Machine Learning**.
+🚀 **Full Stack Web Developer & Computer Science Student** based in Bengaluru, India.  
+💡 Passionate about building **high-performance web apps, real-time systems, scalable APIs**, and intuitive user interfaces.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL, JavaScript (ES6+), HTML5, CSS3 |
-| **Data & Analytics** | Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA) |
-| **Web & Cloud** | Firebase Realtime Database, REST APIs, Git, GitHub |
-| **Developer Tools** | VS Code, Git CLI, Chrome DevTools, PowerShell |
+| **Frontend Development** | JavaScript (ES6+), HTML5, CSS3, Flexbox/Grid, Responsive Web Design, DOM APIs |
+| **Backend & Cloud** | Node.js, Python, REST APIs, Firebase Realtime Database, Cloud Services |
+| **Databases** | SQL, Firebase RTDB, Data Modeling & Query Optimization |
+| **Tools & Version Control** | Git, GitHub, VS Code, Chrome DevTools, PowerShell, Linux/CLI |
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Full Stack Projects
 
-- 💬 **[realtime-chat](https://github.com/gitgaurav-web/realtime-chat)** — A fast, modern & responsive Realtime Chat Application powered by Firebase Realtime Database. Features room creation, live presence, swipe-to-reply, and client-side image compression.  
-  👉 **[Live Demo](https://realtimexyz.blogspot.com/)**
+- 💬 **[realtime-chat](https://github.com/gitgaurav-web/realtime-chat)** — A fast, modern & responsive Realtime Chat Application powered by Firebase Realtime Database. Features 1-click room sharing, live presence, swipe-to-reply, incoming notification chime, and client-side image compression.  
+  👉 **[Live Demo on Blogspot](https://realtimexyz.blogspot.com/)**
 
 - 🚨 **[DIASTRA-Disaster-Intelligence-System](https://github.com/gitgaurav-web/DIASTRA-Disaster-Intelligence-System)** — Disaster Intelligence & Response System for rapid alert distribution, hazard monitoring, and crisis coordination.
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gitgaurav-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" />
@@ -43,7 +43,7 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Website / Blog:** [realtimexyz.blogspot.com](https://realtimexyz.blogspot.com/)
+- 🌐 **Live Projects / Blog:** [realtimexyz.blogspot.com](https://realtimexyz.blogspot.com/)
 - 💻 **GitHub:** [@gitgaurav-web](https://github.com/gitgaurav-web)
 - 📍 **Location:** Bengaluru, India
 
