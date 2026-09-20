@@ -1,7 +1,7 @@
 # Hi there, I'm Gaurav Kumar 👋
 
 <p align="left">
-  <a href="https://realtimexyz.blogspot.com/"><img src="https://img.shields.io/badge/Live_Chat_App-Blogspot-ff5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="https://chatbharo.blogspot.com/"><img src="https://img.shields.io/badge/ChatBharo_App-Blogspot-ff5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   <a href="https://github.com/gitgaurav-web"><img src="https://img.shields.io/badge/GitHub-gitgaurav--web-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-Bengaluru-6f42c1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -24,8 +24,8 @@
 
 ### 🚀 Featured Full Stack Projects
 
-- 💬 **[realtime-chat](https://github.com/gitgaurav-web/realtime-chat)** — A fast, modern & responsive Realtime Chat Application powered by Firebase Realtime Database. Features 1-click room sharing, live presence, swipe-to-reply, incoming notification chime, and client-side image compression.  
-  👉 **[Live Demo on Blogspot](https://realtimexyz.blogspot.com/)**
+- 💬 **[ChatBharo (realtime-chat)](https://github.com/gitgaurav-web/realtime-chat)** — A fast, modern & responsive Realtime Chat Web Application powered by Firebase Realtime Database. Features HD photo pipeline, voice notes, 20MB document sharing, emoji reactions, active presence, and swipe-to-reply.  
+  👉 **[Live Demo: chatbharo.blogspot.com](https://chatbharo.blogspot.com/)**
 
 - 🚨 **[DIASTRA-Disaster-Intelligence-System](https://github.com/gitgaurav-web/DIASTRA-Disaster-Intelligence-System)** — Disaster Intelligence & Response System for rapid alert distribution, hazard monitoring, and crisis coordination.
 
@@ -43,7 +43,7 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Live Projects / Blog:** [realtimexyz.blogspot.com](https://realtimexyz.blogspot.com/)
+- 🌐 **Live Web App:** [chatbharo.blogspot.com](https://chatbharo.blogspot.com/)
 - 💻 **GitHub:** [@gitgaurav-web](https://github.com/gitgaurav-web)
 - 📍 **Location:** Bengaluru, India
 
